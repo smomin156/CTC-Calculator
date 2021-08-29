@@ -1,0 +1,6 @@
+C:\TRAINING\SalaryCalculation\SalaryCalculaterLib\bin\Debug\SalaryCalculaterLib.dll
+C:\TRAINING\SalaryCalculation\SalaryCalculaterLib\bin\Debug\SalaryCalculaterLib.pdb
+C:\TRAINING\SalaryCalculation\SalaryCalculaterLib\obj\Debug\SalaryCalculaterLib.csproj.AssemblyReference.cache
+C:\TRAINING\SalaryCalculation\SalaryCalculaterLib\obj\Debug\SalaryCalculaterLib.csproj.CoreCompileInputs.cache
+C:\TRAINING\SalaryCalculation\SalaryCalculaterLib\obj\Debug\SalaryCalculaterLib.dll
+C:\TRAINING\SalaryCalculation\SalaryCalculaterLib\obj\Debug\SalaryCalculaterLib.pdb
